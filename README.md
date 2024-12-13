@@ -1,6 +1,6 @@
 # Hey, I’m Mitch! 👋
 
-![Banner](/workspaces/mitchelldesjardins/Warm Cartoon Illustration Ghibli.png)
+![Banner](mitchbanner.png)
 
 ## A Little About Me
 
